@@ -1,0 +1,1 @@
+./create_full_monorepo_github.sh <your-github-username> inventory-management-system
